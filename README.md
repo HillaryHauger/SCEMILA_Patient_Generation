@@ -43,7 +43,7 @@ The artifcial patients can be generated in SCEMILA/create_artifcial_patients. Th
 
 For all of these experiments, it is necessary to create the single cell probabilites by running Single_Cell_Classifier/single_cell_classification.ipynb first.
 Furthermore, for experiment 3, you need to create a csv file in SCEMILA/create_artifcial_patients/create_single_cell_results.ipynb.
-For experiment 5, you need to calculate to run SCEMILA_Dropout first and perform SCEMILA_Dropout/ml_pipelin/uncertainty.test
+For experiment 5, you need to calculate to run SCEMILA_Dropout first and perform SCEMILA_Dropout/ml_pipeline/uncertainty.test
 
 #### Running SCEMILA
 Running the original data and the pure artificial data works like in the orginal SCEMILA. So you have to specify which data you want to use in run_pipeline.py then run SCEMILA with:
