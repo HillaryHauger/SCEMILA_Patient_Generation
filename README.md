@@ -29,7 +29,8 @@ The data is available at The Cancer Imaging Archive (TCIA): https://doi.org/10.7
 Hehr, M., Sadafi, A., Matek, C., Lienemann, P., Pohlkamp, C., Haferlach, T., Spiekermann, K., & Marr, C. (2023). A morphological dataset of white blood cells from patients with four different genetic AML entities and non-malignant controls (AML-Cytomorphology_MLL_Helmholtz) (Version 1) [Data set]. The Cancer Imaging Archive.  
 The metadata for train/test split to reproduce the results from paper can be found in the Data folder.  
 ### Code setup
-The Code Setup is similar to the orignal SCEMILA paper. See https://github.com/marrlab/SCEMILA for reference.
+The Code Setup is similar to the orignal SCEMILA paper. See https://github.com/marrlab/SCEMILA for reference.  
+Reference: "Explainable AI identifies diagnostic cells of genetic AML subtypes." (Hehr M, Sadafi A, Matek C, Lienemann P, Pohlkamp C, et al. (2023) PLOS Digital Health 2(3): e0000187. https://doi.org/10.1371/journal.pdig.0000187)
 ### Execution
 
 #### Creating Artficial patients
