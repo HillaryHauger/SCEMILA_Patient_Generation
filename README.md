@@ -15,6 +15,8 @@ Table of contents
 5.	License
 
 ## Description
+This repository contains the machine learning model implementation along with data augmentation techniques used in the research paper titled “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (    Sadafi A, Marr C, Navab N, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A)[Link to the paper]. In addition to the model, it provides various plots and metrics generated during the experimentation process outlined in the paper.
+
 ## Getting started
 ### Data
 ### Code setup
