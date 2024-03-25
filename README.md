@@ -1,12 +1,15 @@
 # SCEMILA_Patient_Generation
 
-Welcome to the Github repository supplementing the publication “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (    Sadafi A, Marr C, Navab N, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A)
+Welcome to the Github repository supplementing the publication “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (    Sadafi A, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A, Hehr M, Navab N, Marr C)
 
 Table of contents
 1.	Description
 2.	Getting started
 
 	2.1. Data
+  		To reproduce results, download the data and unzip it. The data is available at The Cancer Imaging Archive (TCIA): https://doi.org/10.7937/6ppe-4020 	
+Hehr, M., Sadafi, A., Matek, C., Lienemann, P., Pohlkamp, C., Haferlach, T., Spiekermann, K., & Marr, C. (2023). A morphological dataset of white blood cells from patients with four different genetic AML entities and non-malignant controls (AML-Cytomorphology_MLL_Helmholtz) (Version 1) [Data set]. The Cancer Imaging Archive.
+  		The metadata for train/test split to reproduce the results from paper can be found in the Data folder.
 
 	2.2. Dependencies
 
