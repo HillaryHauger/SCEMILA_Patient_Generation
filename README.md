@@ -6,15 +6,15 @@ Table of contents
 1.	Description
 2.	Getting started
 
-2.1. Data
+	2.1. Data
 
-2.2. Dependencies
+	2.2. Dependencies
 
-2.3. Code Setup
+	2.3. Code Setup
 
-2.4. Execution
+	2.4. Execution
 
-2.5. Analysis
+	2.5. Analysis
 4.	Authors
 5.	Acknowledgements
 6.	License
