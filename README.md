@@ -34,10 +34,12 @@ Furthermore, for experiment 3, you need to create a csv file in SCEMILA/create_a
 For experiment 5, you need to calculate to run SCEMILA_Dropout first and perform SCEMILA_Dropout/ml_pipelin/uncertainty.test
 
 #### Running SCEMILA
-Running the original data and the pure artificial data works like in the orginal SCEMILA. So you have to specify which data you want to use in run_pipeline.py 
-then run SCEMILA with:
+Running the original data and the pure artificial data works like in the orginal SCEMILA. So you have to specify which data you want to use in run_pipeline.py then run SCEMILA with:
+
 	python3 run_pipeline.py --result_folder=result_folder_1
+
 The data mixed with artifically generated patients and real patients is run like this:
+
 	python3 run_pipeline_mixed.py --result_folder=result_folder --source_folder=source_folders --target_folder=target_folders[i]
  
 ### Analysis
