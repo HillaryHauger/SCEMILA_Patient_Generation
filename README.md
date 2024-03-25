@@ -5,11 +5,11 @@ Welcome to the Github repository supplementing the publication “Improvement of
 Table of contents
 1.	Description
 2.	Getting started
-	1. Data
-	2. Dependencies 
-	3. Code setup
-	4. Execution
-	5. Analysis
+	- 2.1. Data
+	- 2.2. Dependencies 
+	- 2.3. Code setup
+	- 2.4. Execution
+	- 2.5. Analysis
 4.	Authors
 5.	Acknowledgements
 6.	License
