@@ -1,0 +1,22 @@
+,true_lbl,art_lbl,size_tot,train_size,val_size,test_size
+0,eosinophil granulocyte,0,7222,0,0,0
+1,reactive lymphocyte,1,11322,0,0,0
+2,neutrophil granulocyte (segmented),2,133209,0,0,0
+3,typical lymphocyte,3,81513,0,0,0
+4,other,4,23046,0,0,0
+5,neutrophil granulocyte (band),5,5677,0,0,0
+6,monocyte,6,20297,0,0,0
+7,large granulated lymphocyte,7,6109,0,0,0
+8,atypical promyelocyte,8,4102,0,0,0
+9,basophil granulocyte,9,3587,0,0,0
+10,smudge cell,10,4424,0,0,0
+11,neoplastic lymphocyte,11,4884,0,0,0
+12,promyelocyte,12,1263,0,0,0
+13,myelocyte,13,2161,0,0,0
+14,myeloblast,14,6920,0,0,0
+15,metamyelocyte,15,1461,0,0,0
+16,normo,16,2235,0,0,0
+17,plasma cell,17,1928,0,0,0
+18,hair cell,18,2983,0,0,0
+19,bilobed M3v,19,1000,0,0,0
+20,mononucleosis,20,1667,0,0,0
