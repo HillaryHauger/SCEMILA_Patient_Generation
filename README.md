@@ -1,6 +1,6 @@
 # SCEMILA_Patient_Generation
 
-Welcome to the Github repository supplementing the publication “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (    Sadafi A, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A, Hehr M, Navab N, Marr C)
+Welcome to the Github repository supplementing the publication “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (  Sadafi A, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A, Hehr M, Navab N, Marr C)
 
 Table of contents
 1.	Description
@@ -20,7 +20,7 @@ Table of contents
 6.	License
 
 ## Description
-This repository contains the machine learning model implementation along with data augmentation techniques used in the research paper titled “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (Sadafi A, Marr C, Navab N, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A)[Link to the paper]. In addition, it provides various plots and metrics produced during the experimentation and patient generation process outlined in the paper.
+This repository contains the machine learning model implementation along with data augmentation techniques used in the research paper titled “Improvement of Acute Myeloid Leukemia Subtype Classification using Artificial Patient Generation." (Sadafi A, Chernysheva A,  El-Wafi J, Hauger H, Ivanova A, Hehr M, Navab N, Marr C)[Link to the paper]. In addition, it provides various plots and metrics produced during the experimentation and patient generation process outlined in the paper.
 
 ## Getting started
 ### Data
