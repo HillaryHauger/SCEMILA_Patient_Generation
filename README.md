@@ -14,6 +14,9 @@ Table of contents
 4.	Acknowledgements
 5.	License
 
+## About
+
+
 Argument	Description	Possible input	Default
 --fold	Change this parameter to rotate through different folds of cross validation.For 5-fold cross validation (default), simply launch the code five times, every time with a different value for --fold in range of [0,1,2,3,4]	Integer, suggested: [0,1,2,3,4]	0
 --lr	Learning rate	Float	0.00005
